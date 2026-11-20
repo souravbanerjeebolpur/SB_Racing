@@ -1,0 +1,8 @@
+{
+  "name": "SB Racing 2026",
+  "description": "High-octane 3D street and circuit racing featuring realistic slip-angle drift physics, dynamic tire smoke and skidmarks, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
